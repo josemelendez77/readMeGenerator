@@ -1,26 +1,29 @@
 {
-    "name": "09-readme-generator",
-    "version": "1.0.0",
-    "description": "A command-line application that dynamically generates a professional README.md from a user's input using the Inquirer package.",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \\\"Error: no test specified\\\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/hilbug/09-readme-generator.git"
-    },
-    "keywords": [
-      "readme",
-      "node.js"
-    ],
-    "author": "hilary ferraro",
-    "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/hilbug/09-readme-generator/issues"
-    },
-    "homepage": "https://github.com/hilbug/09-readme-generator#readme",
-    "dependencies": {
-      "inquirer": "^7.3.3"
-    }
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josemelendez77/readMeGenerator.git"
+  },
+  "keywords": [
+    "example",
+    "npm",
+    "init",
+    "package.json"
+  ],
+  "author": "Jose melendez melendezjose585@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josemelendez77/readMeGenerator/issues"
+  },
+  "homepage": "https://github.com/josemelendez77/readMeGenerator#readme",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^9.2.11"
   }
+}
